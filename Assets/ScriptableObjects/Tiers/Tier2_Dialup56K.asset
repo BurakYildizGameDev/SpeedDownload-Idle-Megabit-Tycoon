@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 152bef7b364a3d14aa7f4973c3b0b1dd, type: 3}
+  m_Name: Tier2_Dialup56K
+  m_EditorClassIdentifier: SpeedDownload.Runtime::SpeedDownload.Data.ConnectionTierSO
+  tierIndex: 2
+  tierName: Dial-up 56K
+  flavorText: O meshur bip-vzzzt sesi.
+  minSpeed: 1000
+  maxSpeed: 100000
+  baseSpeed: 1000
+  useLogarithmicScale: 1
+  needleInertia: 0.09
+  speedDecayRate: 1.7
+  dialBackground: {fileID: 21300000, guid: 6a076a6c91da87f459663c89354c6fd1, type: 3}
+  connectionIcon: {fileID: 21300000, guid: e4d4249a70a7cc14eb226518a1efdbc8, type: 3}
+  roomBackground: {fileID: 21300000, guid: cc749a4f04b0a9443b669bb2ac6d9232, type: 3}
+  roomTint: {r: 1, g: 1, b: 1, a: 1}
+  needleColor: {r: 1, g: 0.3, b: 0.15, a: 1}
+  dialHueShift: 0
+  isProceduralTemplate: 0

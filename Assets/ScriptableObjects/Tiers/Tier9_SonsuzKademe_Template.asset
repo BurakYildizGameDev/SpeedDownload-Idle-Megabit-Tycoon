@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 152bef7b364a3d14aa7f4973c3b0b1dd, type: 3}
+  m_Name: Tier9_SonsuzKademe_Template
+  m_EditorClassIdentifier: SpeedDownload.Runtime::SpeedDownload.Data.ConnectionTierSO
+  tierIndex: 9
+  tierName: Sonsuz Kademe
+  flavorText: Prosedurel uretilen kademe. Kadran hue kaymasiyla ayrisir.
+  minSpeed: 100000000000000
+  maxSpeed: 10000000000000000
+  baseSpeed: 100000000000000
+  useLogarithmicScale: 1
+  needleInertia: 0.24
+  speedDecayRate: 1.15
+  dialBackground: {fileID: 21300000, guid: a7dc9368d1b19be41b190e3d1bd3139b, type: 3}
+  connectionIcon: {fileID: 21300000, guid: fe76e9f77f43f234792ce8893c8a9ad6, type: 3}
+  roomBackground: {fileID: 21300000, guid: c39b29e76b56f594bbffa5e1f6d8a7b6, type: 3}
+  roomTint: {r: 1, g: 1, b: 1, a: 1}
+  needleColor: {r: 1, g: 0.95, b: 0.15, a: 1}
+  dialHueShift: 0
+  isProceduralTemplate: 1

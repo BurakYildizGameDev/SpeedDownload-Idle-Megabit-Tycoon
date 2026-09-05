@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1f8037b6452ae24fba8a452259b7b02, type: 3}
+  m_Name: Upg_DownloadManager
+  m_EditorClassIdentifier: SpeedDownload.Runtime::SpeedDownload.Data.UpgradeSO
+  displayName: Download Manager
+  description: 'Oyun kapaliyken de indirmeye devam eder. 2. seviye: Pro (%100 / 24
+    saat).'
+  icon: {fileID: 21300000, guid: 2f2d932067b713543a5f66e552017846, type: 3}
+  type: 3
+  tab: 2
+  baseCost: 9800
+  costGrowth: 1.15
+  maxLevel: 2
+  effectPerLevel: 1
+  milestoneLevels: 
+  milestoneMultiplier: 1
+  requiredTierIndex: 3
+  connectionTierIndex: -1

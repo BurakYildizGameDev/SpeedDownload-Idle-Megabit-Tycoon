@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1f8037b6452ae24fba8a452259b7b02, type: 3}
+  m_Name: Upg_ModemeVurmak
+  m_EditorClassIdentifier: SpeedDownload.Runtime::SpeedDownload.Data.UpgradeSO
+  displayName: Modeme Vurmak
+  description: Klasik cozum. Tiklama basina hiz artisini yukseltir.
+  icon: {fileID: 21300000, guid: ed87cf2cfd521f04497b0f4c18c60f8a, type: 3}
+  type: 0
+  tab: 1
+  baseCost: 4
+  costGrowth: 1.14
+  maxLevel: 0
+  effectPerLevel: 0.15
+  milestoneLevels: 0a000000190000003200000064000000
+  milestoneMultiplier: 2
+  requiredTierIndex: 0
+  connectionTierIndex: -1

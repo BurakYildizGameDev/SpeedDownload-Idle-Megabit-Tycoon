@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1f8037b6452ae24fba8a452259b7b02, type: 3}
+  m_Name: Upg_TorrentIstemcisi
+  m_EditorClassIdentifier: SpeedDownload.Runtime::SpeedDownload.Data.UpgradeSO
+  displayName: Torrent Istemcisi
+  description: Bitmis dosyalari paylasirsin. Bosta gelirinin bir kismi kadar ek kazanc.
+  icon: {fileID: 21300000, guid: f0bf38671fd7a3a47af4b3fe8b730c7a, type: 3}
+  type: 15
+  tab: 2
+  baseCost: 1000000
+  costGrowth: 1.14
+  maxLevel: 10
+  effectPerLevel: 0.04
+  milestoneLevels: 0400000008000000
+  milestoneMultiplier: 1.6
+  requiredTierIndex: 5
+  connectionTierIndex: -1

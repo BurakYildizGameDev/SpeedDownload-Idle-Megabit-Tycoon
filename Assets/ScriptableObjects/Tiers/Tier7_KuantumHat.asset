@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 152bef7b364a3d14aa7f4973c3b0b1dd, type: 3}
+  m_Name: Tier7_KuantumHat
+  m_EditorClassIdentifier: SpeedDownload.Runtime::SpeedDownload.Data.ConnectionTierSO
+  tierIndex: 7
+  tierName: Kuantum Hat
+  flavorText: Deneysel altyapi. Paketler ayni anda her yerde.
+  minSpeed: 100000000000
+  maxSpeed: 1000000000000
+  baseSpeed: 100000000000
+  useLogarithmicScale: 1
+  needleInertia: 0.19
+  speedDecayRate: 1.28
+  dialBackground: {fileID: 21300000, guid: 602b4c98ae8701c4cb2d5a86a8157be5, type: 3}
+  connectionIcon: {fileID: 21300000, guid: ca0759170045e8b46b9e8bbe91bf2132, type: 3}
+  roomBackground: {fileID: 21300000, guid: 7cfaf26ea5f00f943bdcf386d81b1954, type: 3}
+  roomTint: {r: 1, g: 1, b: 1, a: 1}
+  needleColor: {r: 1, g: 0.25, b: 0.85, a: 1}
+  dialHueShift: 0
+  isProceduralTemplate: 0

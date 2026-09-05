@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1f8037b6452ae24fba8a452259b7b02, type: 3}
+  m_Name: Upg_RamYukseltmesi
+  m_EditorClassIdentifier: SpeedDownload.Runtime::SpeedDownload.Data.UpgradeSO
+  displayName: RAM Yukseltmesi
+  description: Ayni anda ikinci bir dosya inmeye baslar (ek slot tam hizin %60'inda
+    calisir).
+  icon: {fileID: 21300000, guid: 447d7dc26654aa543915b4207d489b57, type: 3}
+  type: 11
+  tab: 1
+  baseCost: 2300000
+  costGrowth: 1.15
+  maxLevel: 1
+  effectPerLevel: 1
+  milestoneLevels: 
+  milestoneMultiplier: 1
+  requiredTierIndex: 5
+  connectionTierIndex: -1

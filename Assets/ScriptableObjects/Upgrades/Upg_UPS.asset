@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1f8037b6452ae24fba8a452259b7b02, type: 3}
+  m_Name: Upg_UPS
+  m_EditorClassIdentifier: SpeedDownload.Runtime::SpeedDownload.Data.UpgradeSO
+  displayName: Kesintisiz Guc (UPS)
+  description: Asiri isinmada hat tamamen kopmaz, taban hizin bir kismi korunur.
+  icon: {fileID: 21300000, guid: f0876791e875d964a85ee14f8c2a0e09, type: 3}
+  type: 8
+  tab: 1
+  baseCost: 150000
+  costGrowth: 1.3
+  maxLevel: 3
+  effectPerLevel: 0.1
+  milestoneLevels: 
+  milestoneMultiplier: 1
+  requiredTierIndex: 4
+  connectionTierIndex: -1

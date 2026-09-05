@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d72ef9c4b354e54e8e78bb81e059ccd, type: 3}
+  m_Name: File_OsIso
+  m_EditorClassIdentifier: SpeedDownload.Runtime::SpeedDownload.Data.FileDataSO
+  displayName: os.iso
+  icon: {fileID: 21300000, guid: 970581bc6c264d549ac4c2e0ab34abe2, type: 3}
+  sizeBits: 285280805965.6368
+  baseReward: 2400000
+  minConnectionTier: 6
+  maxConnectionTier: 6
+  weight: 1
+  isProceduralTemplate: 0

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d72ef9c4b354e54e8e78bb81e059ccd, type: 3}
+  m_Name: File_GalacticCensus
+  m_EditorClassIdentifier: SpeedDownload.Runtime::SpeedDownload.Data.FileDataSO
+  displayName: galactic_census.tar.gz
+  icon: {fileID: 21300000, guid: 3b9f096311fa2ce4fb06dc2b6952159e, type: 3}
+  sizeBits: 418411848749600.6
+  baseReward: 1320000000
+  minConnectionTier: 8
+  maxConnectionTier: -1
+  weight: 1
+  isProceduralTemplate: 0

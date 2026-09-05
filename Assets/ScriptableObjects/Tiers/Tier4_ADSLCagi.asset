@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 152bef7b364a3d14aa7f4973c3b0b1dd, type: 3}
+  m_Name: Tier4_ADSLCagi
+  m_EditorClassIdentifier: SpeedDownload.Runtime::SpeedDownload.Data.ConnectionTierSO
+  tierIndex: 4
+  tierName: ADSL Cagi
+  flavorText: Ev interneti patlamasi.
+  minSpeed: 1000000
+  maxSpeed: 100000000
+  baseSpeed: 1000000
+  useLogarithmicScale: 1
+  needleInertia: 0.13
+  speedDecayRate: 1.55
+  dialBackground: {fileID: 21300000, guid: 8d2c61d356de2f64088e81cb42bc4f53, type: 3}
+  connectionIcon: {fileID: 21300000, guid: 5203b458400ece14c980f1b4e496dbb0, type: 3}
+  roomBackground: {fileID: 21300000, guid: 934c72de2ca49704b8930d0bf02be65c, type: 3}
+  roomTint: {r: 1, g: 1, b: 1, a: 1}
+  needleColor: {r: 1, g: 0.55, b: 0.1, a: 1}
+  dialHueShift: 0
+  isProceduralTemplate: 0

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1f8037b6452ae24fba8a452259b7b02, type: 3}
+  m_Name: Upg_DnsAyari
+  m_EditorClassIdentifier: SpeedDownload.Runtime::SpeedDownload.Data.UpgradeSO
+  displayName: DNS Ayari
+  description: Her tiklamada Kritik Hiz Patlamasi (5x) tetikleme ihtimali.
+  icon: {fileID: 21300000, guid: c7f9ed097efce6748b75ff298d565a70, type: 3}
+  type: 2
+  tab: 2
+  baseCost: 390
+  costGrowth: 1.3
+  maxLevel: 5
+  effectPerLevel: 0.05
+  milestoneLevels: 
+  milestoneMultiplier: 1
+  requiredTierIndex: 2
+  connectionTierIndex: -1
