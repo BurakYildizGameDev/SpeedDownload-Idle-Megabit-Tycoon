@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: f3209f6029729f24480fbdc65951c65d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8004708729797853417
+    second: fx_coin_burst_0
+  - first:
+      213: -6099457676968561822
+    second: fx_coin_burst_1
+  - first:
+      213: 3503861989693667526
+    second: fx_coin_burst_2
+  - first:
+      213: -2411320958169108413
+    second: fx_coin_burst_3
+  - first:
+      213: -1542892763089835591
+    second: fx_coin_burst_4
+  - first:
+      213: -253070326130012203
+    second: fx_coin_burst_5
+  - first:
+      213: -1600446457657090135
+    second: fx_coin_burst_6
+  - first:
+      213: -2852200397049903641
+    second: fx_coin_burst_7
+  - first:
+      213: 1082693649615591138
+    second: fx_coin_burst_8
+  - first:
+      213: -2182238548845471713
+    second: fx_coin_burst_9
+  - first:
+      213: -1189276844249993215
+    second: fx_coin_burst_10
+  - first:
+      213: -8991138938764664067
+    second: fx_coin_burst_11
+  - first:
+      213: 2660286904008005917
+    second: fx_coin_burst_12
+  - first:
+      213: 5311239458542457084
+    second: fx_coin_burst_13
+  - first:
+      213: -7590832151908074107
+    second: fx_coin_burst_14
+  - first:
+      213: 4275110578672064744
+    second: fx_coin_burst_15
+  - first:
+      213: 3389370826460334710
+    second: fx_coin_burst_16
+  - first:
+      213: 5707604304894346965
+    second: fx_coin_burst_17
+  - first:
+      213: -6203919318425176805
+    second: fx_coin_burst_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fx_coin_burst_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 403
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0c112dd20761f60800000000000000
+      internalID: 8004708729797853417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_coin_burst_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 406
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26372c12f8f5a5ba0800000000000000
+      internalID: -6099457676968561822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_coin_burst_2
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 372
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c83fa55ae730a030800000000000000
+      internalID: 3503861989693667526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_coin_burst_3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 297
+        width: 104
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34030e04d54498ed0800000000000000
+      internalID: -2411320958169108413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_coin_burst_4
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 317
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b96281e43b869ae0800000000000000
+      internalID: -1542892763089835591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_coin_burst_5
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 350
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df04d311e9ec7cf0800000000000000
+      internalID: -253070326130012203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_coin_burst_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 250
+        width: 53
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af11512d621ac9e0800000000000000
+      internalID: -1600446457657090135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_coin_burst_7
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 276
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5cc99b9d2fa68d0800000000000000
+      internalID: -2852200397049903641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_coin_burst_8
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 276
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e698e15320860f00800000000000000
+      internalID: 1082693649615591138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_coin_burst_9
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 265
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18d6e01a9127b1e0800000000000000
+      internalID: -2182238548845471713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_coin_burst_10
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 178
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100b1eed207de7fe0800000000000000
+      internalID: -1189276844249993215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_coin_burst_11
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 234
+        width: 61
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2efb4b5ce093380800000000000000
+      internalID: -8991138938764664067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_coin_burst_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 139
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19550a28dc3be420800000000000000
+      internalID: 2660286904008005917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_coin_burst_13
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 166
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0167bb52055b940800000000000000
+      internalID: 5311239458542457084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_coin_burst_14
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 179
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58db7e33062f7a690800000000000000
+      internalID: -7590832151908074107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_coin_burst_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 105
+        width: 81
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e85349bb6e345b30800000000000000
+      internalID: 4275110578672064744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_coin_burst_16
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 129
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a8d3b1fc6790f20800000000000000
+      internalID: 3389370826460334710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_coin_burst_17
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 43
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6c7b700eb753f40800000000000000
+      internalID: 5707604304894346965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_coin_burst_18
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 45
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15751aef3047e9a0800000000000000
+      internalID: -6203919318425176805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fx_coin_burst_0: 8004708729797853417
+      fx_coin_burst_1: -6099457676968561822
+      fx_coin_burst_10: -1189276844249993215
+      fx_coin_burst_11: -8991138938764664067
+      fx_coin_burst_12: 2660286904008005917
+      fx_coin_burst_13: 5311239458542457084
+      fx_coin_burst_14: -7590832151908074107
+      fx_coin_burst_15: 4275110578672064744
+      fx_coin_burst_16: 3389370826460334710
+      fx_coin_burst_17: 5707604304894346965
+      fx_coin_burst_18: -6203919318425176805
+      fx_coin_burst_2: 3503861989693667526
+      fx_coin_burst_3: -2411320958169108413
+      fx_coin_burst_4: -1542892763089835591
+      fx_coin_burst_5: -253070326130012203
+      fx_coin_burst_6: -1600446457657090135
+      fx_coin_burst_7: -2852200397049903641
+      fx_coin_burst_8: 1082693649615591138
+      fx_coin_burst_9: -2182238548845471713
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

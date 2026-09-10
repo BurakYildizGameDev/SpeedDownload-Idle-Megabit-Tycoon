@@ -1,0 +1,2015 @@
+fileFormatVersion: 2
+guid: 0930fb17d97d4e44f828c18bd01f2da1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2138850448241624659
+    second: dial_tick_marks_0
+  - first:
+      213: 8442411994176528363
+    second: dial_tick_marks_1
+  - first:
+      213: 1838383777561163679
+    second: dial_tick_marks_2
+  - first:
+      213: -1903955704581603398
+    second: dial_tick_marks_3
+  - first:
+      213: 6246756659432559205
+    second: dial_tick_marks_4
+  - first:
+      213: -5645299514633204196
+    second: dial_tick_marks_5
+  - first:
+      213: 4532926319330135939
+    second: dial_tick_marks_6
+  - first:
+      213: 4718024526528320144
+    second: dial_tick_marks_7
+  - first:
+      213: 8952014373747105386
+    second: dial_tick_marks_8
+  - first:
+      213: 8955952706874088268
+    second: dial_tick_marks_9
+  - first:
+      213: 4946615044959232796
+    second: dial_tick_marks_10
+  - first:
+      213: -5735178593141296034
+    second: dial_tick_marks_11
+  - first:
+      213: -6102223384325350288
+    second: dial_tick_marks_12
+  - first:
+      213: -1904464637316346264
+    second: dial_tick_marks_13
+  - first:
+      213: -8729178728571363898
+    second: dial_tick_marks_14
+  - first:
+      213: -8518692334314459045
+    second: dial_tick_marks_15
+  - first:
+      213: -6314384521589508813
+    second: dial_tick_marks_16
+  - first:
+      213: -8475757390126471290
+    second: dial_tick_marks_17
+  - first:
+      213: -8457752236570044115
+    second: dial_tick_marks_18
+  - first:
+      213: 7113553674515682418
+    second: dial_tick_marks_19
+  - first:
+      213: -4205091243879584238
+    second: dial_tick_marks_20
+  - first:
+      213: -3665518064451544045
+    second: dial_tick_marks_21
+  - first:
+      213: -3496350142408593044
+    second: dial_tick_marks_22
+  - first:
+      213: -1407427275812571066
+    second: dial_tick_marks_23
+  - first:
+      213: -1380241428997552204
+    second: dial_tick_marks_24
+  - first:
+      213: -4029032932742947040
+    second: dial_tick_marks_25
+  - first:
+      213: 6661362470546959298
+    second: dial_tick_marks_26
+  - first:
+      213: -2282443628959015165
+    second: dial_tick_marks_27
+  - first:
+      213: -3120619398185851081
+    second: dial_tick_marks_28
+  - first:
+      213: 405762347785067621
+    second: dial_tick_marks_29
+  - first:
+      213: -1834984986789918985
+    second: dial_tick_marks_30
+  - first:
+      213: 2436840750279387781
+    second: dial_tick_marks_31
+  - first:
+      213: -5398895324867914799
+    second: dial_tick_marks_32
+  - first:
+      213: -622945607062770460
+    second: dial_tick_marks_33
+  - first:
+      213: -317308536034507853
+    second: dial_tick_marks_34
+  - first:
+      213: -2863917830966904169
+    second: dial_tick_marks_35
+  - first:
+      213: 7157644883299708258
+    second: dial_tick_marks_36
+  - first:
+      213: 6617555934268041591
+    second: dial_tick_marks_37
+  - first:
+      213: -4096967974350208615
+    second: dial_tick_marks_38
+  - first:
+      213: -2611811881262971418
+    second: dial_tick_marks_39
+  - first:
+      213: -556499650197525300
+    second: dial_tick_marks_40
+  - first:
+      213: 1121429349139026499
+    second: dial_tick_marks_41
+  - first:
+      213: 121910611812200008
+    second: dial_tick_marks_42
+  - first:
+      213: -33589247281663315
+    second: dial_tick_marks_43
+  - first:
+      213: -5966293227439658276
+    second: dial_tick_marks_44
+  - first:
+      213: -6313560947944254041
+    second: dial_tick_marks_45
+  - first:
+      213: -8132430551795478759
+    second: dial_tick_marks_46
+  - first:
+      213: 1933448673342283284
+    second: dial_tick_marks_47
+  - first:
+      213: 4715663933635845939
+    second: dial_tick_marks_48
+  - first:
+      213: 6727532153481215289
+    second: dial_tick_marks_49
+  - first:
+      213: -2926268299393008992
+    second: dial_tick_marks_50
+  - first:
+      213: 7579648592469247016
+    second: dial_tick_marks_51
+  - first:
+      213: -7129400045945535019
+    second: dial_tick_marks_52
+  - first:
+      213: -2421356769655299887
+    second: dial_tick_marks_53
+  - first:
+      213: -4965939279508973438
+    second: dial_tick_marks_54
+  - first:
+      213: -5694448987473352229
+    second: dial_tick_marks_55
+  - first:
+      213: 2467496092325492086
+    second: dial_tick_marks_56
+  - first:
+      213: 5278287438022790825
+    second: dial_tick_marks_57
+  - first:
+      213: 1061143723115112573
+    second: dial_tick_marks_58
+  - first:
+      213: -2098991254721790523
+    second: dial_tick_marks_59
+  - first:
+      213: -7761893411003001811
+    second: dial_tick_marks_60
+  - first:
+      213: 2764447527396018403
+    second: dial_tick_marks_61
+  - first:
+      213: 2478140211379457857
+    second: dial_tick_marks_62
+  - first:
+      213: 6877973762726075713
+    second: dial_tick_marks_63
+  - first:
+      213: 2712651972558013023
+    second: dial_tick_marks_64
+  - first:
+      213: 8949848282358445057
+    second: dial_tick_marks_65
+  - first:
+      213: 656903831739540190
+    second: dial_tick_marks_66
+  - first:
+      213: 8759734272306970676
+    second: dial_tick_marks_67
+  - first:
+      213: -7648095584214172808
+    second: dial_tick_marks_68
+  - first:
+      213: 2736035601840502748
+    second: dial_tick_marks_69
+  - first:
+      213: 7807145831666724768
+    second: dial_tick_marks_70
+  - first:
+      213: -6784532693778246118
+    second: dial_tick_marks_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dial_tick_marks_0
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 404
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da97fd479d64152e0800000000000000
+      internalID: -2138850448241624659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 413
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef93689af8792570800000000000000
+      internalID: 8442411994176528363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_2
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 421
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97bf563e40438910800000000000000
+      internalID: 1838383777561163679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 427
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfb550df5ac395e0800000000000000
+      internalID: -1903955704581603398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 433
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56298c3c510f0b650800000000000000
+      internalID: 6246756659432559205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_5
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 437
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e4a93600ed7a1b0800000000000000
+      internalID: -5645299514633204196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_6
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 439
+        width: 14
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f01b0987038ee30800000000000000
+      internalID: 4532926319330135939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_7
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 440
+        width: 10
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0921d494f4ac97140800000000000000
+      internalID: 4718024526528320144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_8
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 439
+        width: 14
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e1363a4a1fb3c70800000000000000
+      internalID: 8952014373747105386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_9
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 437
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b9d66498fe94c70800000000000000
+      internalID: 8955952706874088268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_10
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 433
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13e563dc28e5a440800000000000000
+      internalID: 4946615044959232796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_11
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 427
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e547360b47d8860b0800000000000000
+      internalID: -5735178593141296034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_12
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 421
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c9435b92c805ba0800000000000000
+      internalID: -6102223384325350288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_13
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 413
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e477da08bf195e0800000000000000
+      internalID: -1904464637316346264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_14
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 404
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd9b9e023abbd680800000000000000
+      internalID: -8729178728571363898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_15
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 371
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50f756b47687c980800000000000000
+      internalID: -8518692334314459045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_16
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 383
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335be6f8bbcce58a0800000000000000
+      internalID: -6314384521589508813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_17
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 394
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687ae176f8f006a80800000000000000
+      internalID: -8475757390126471290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_18
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 394
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d291af4e62700aa80800000000000000
+      internalID: -8457752236570044115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_19
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 383
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2749e24b06b68b260800000000000000
+      internalID: 7113553674515682418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_20
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 371
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ea3701bc384a5c0800000000000000
+      internalID: -4205091243879584238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_21
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 344
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c969abdb6712dc0800000000000000
+      internalID: -3665518064451544045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_22
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 358
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c617957e1187a7fc0800000000000000
+      internalID: -3496350142408593044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_23
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 358
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648fef97950d77ce0800000000000000
+      internalID: -1407427275812571066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_24
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 344
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7c250bbb568dce0800000000000000
+      internalID: -1380241428997552204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_25
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 315
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f9187f4eff518c0800000000000000
+      internalID: -4029032932742947040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_26
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 330
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbe111afd9e17c50800000000000000
+      internalID: 6661362470546959298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_27
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 330
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f5b04cc912350e0800000000000000
+      internalID: -2282443628959015165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_28
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 315
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73760fbe03551b4d0800000000000000
+      internalID: -3120619398185851081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_29
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 284
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c15fa94be81a500800000000000000
+      internalID: 405762347785067621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_30
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 300
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6463e60e2d886e0800000000000000
+      internalID: -1834984986789918985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_31
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 300
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a699e50c561d120800000000000000
+      internalID: 2436840750279387781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_32
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 284
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d31bbd7e454315b0800000000000000
+      internalID: -5398895324867914799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_33
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 268
+        width: 42
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec22a8554ada57f0800000000000000
+      internalID: -622945607062770460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_34
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 268
+        width: 42
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3c6715191b89bf0800000000000000
+      internalID: -317308536034507853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_35
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 251
+        width: 41
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a7f4b08e15148d0800000000000000
+      internalID: -2863917830966904169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_36
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 251
+        width: 41
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26da8793910155360800000000000000
+      internalID: 7157644883299708258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_37
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 231
+        width: 42
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77923579f0846db50800000000000000
+      internalID: 6617555934268041591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_38
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 231
+        width: 42
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99144b08555a427c0800000000000000
+      internalID: -4096967974350208615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_39
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 211
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e50d259eeaf0cbd0800000000000000
+      internalID: -2611811881262971418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_40
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 192
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccce850448ae648f0800000000000000
+      internalID: -556499650197525300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_41
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 192
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342112c2d0e109f00800000000000000
+      internalID: 1121429349139026499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_42
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 211
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84eaa673e0d11b100800000000000000
+      internalID: 121910611812200008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_43
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 174
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2f08fe1caa88ff0800000000000000
+      internalID: -33589247281663315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_44
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 157
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdae3a0abe7733da0800000000000000
+      internalID: -5966293227439658276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_45
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 157
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5110eb4c9b168a0800000000000000
+      internalID: -6313560947944254041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_46
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 174
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f42b7208dc32f80800000000000000
+      internalID: -8132430551795478759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_47
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 140
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e5406135df4da10800000000000000
+      internalID: 1933448673342283284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_48
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 124
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f5c7cec57617140800000000000000
+      internalID: 4715663933635845939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_49
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 109
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d344f79defc5d50800000000000000
+      internalID: 6727532153481215289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_50
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 109
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa71395c7ec367d0800000000000000
+      internalID: -2926268299393008992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_51
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 124
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8244b647c32503960800000000000000
+      internalID: 7579648592469247016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_52
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 140
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d543cf6e684f0d90800000000000000
+      internalID: -7129400045945535019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_53
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 95
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0653ec8dc956ed0800000000000000
+      internalID: -2421356769655299887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_54
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 82
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28855b43980751bb0800000000000000
+      internalID: -4965939279508973438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_55
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 71
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9611ef0d049f0b0800000000000000
+      internalID: -5694448987473352229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_56
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 61
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675b9b36f9e4e3220800000000000000
+      internalID: 2467496092325492086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_57
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 61
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae41c5957e304940800000000000000
+      internalID: 5278287438022790825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_58
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 71
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7869ef0890f9be00800000000000000
+      internalID: 1061143723115112573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_59
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 82
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cdf7a32392eed2e0800000000000000
+      internalID: -2098991254721790523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_60
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 95
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2498b42117384490800000000000000
+      internalID: -7761893411003001811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_61
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 52
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e885a6216a4d5620800000000000000
+      internalID: 2764447527396018403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_62
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 44
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f42ea746f146220800000000000000
+      internalID: 2478140211379457857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_63
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 38
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d9eb532b8737f50800000000000000
+      internalID: 6877973762726075713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_64
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 34
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f524597c89645a520800000000000000
+      internalID: 2712651972558013023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_65
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 31
+        width: 14
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1047d9f289f343c70800000000000000
+      internalID: 8949848282358445057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_66
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 31
+        width: 10
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2ad66fd8acd1900800000000000000
+      internalID: 656903831739540190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_67
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 31
+        width: 14
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4300cabd8e3d09970800000000000000
+      internalID: 8759734272306970676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_68
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 34
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b3ea666918cd590800000000000000
+      internalID: -7648095584214172808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_69
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 38
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7768c32e958f520800000000000000
+      internalID: 2736035601840502748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_70
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 44
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afaa2615cd885c60800000000000000
+      internalID: 7807145831666724768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dial_tick_marks_71
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 52
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16d254067f78d1a0800000000000000
+      internalID: -6784532693778246118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dial_tick_marks_0: -2138850448241624659
+      dial_tick_marks_1: 8442411994176528363
+      dial_tick_marks_10: 4946615044959232796
+      dial_tick_marks_11: -5735178593141296034
+      dial_tick_marks_12: -6102223384325350288
+      dial_tick_marks_13: -1904464637316346264
+      dial_tick_marks_14: -8729178728571363898
+      dial_tick_marks_15: -8518692334314459045
+      dial_tick_marks_16: -6314384521589508813
+      dial_tick_marks_17: -8475757390126471290
+      dial_tick_marks_18: -8457752236570044115
+      dial_tick_marks_19: 7113553674515682418
+      dial_tick_marks_2: 1838383777561163679
+      dial_tick_marks_20: -4205091243879584238
+      dial_tick_marks_21: -3665518064451544045
+      dial_tick_marks_22: -3496350142408593044
+      dial_tick_marks_23: -1407427275812571066
+      dial_tick_marks_24: -1380241428997552204
+      dial_tick_marks_25: -4029032932742947040
+      dial_tick_marks_26: 6661362470546959298
+      dial_tick_marks_27: -2282443628959015165
+      dial_tick_marks_28: -3120619398185851081
+      dial_tick_marks_29: 405762347785067621
+      dial_tick_marks_3: -1903955704581603398
+      dial_tick_marks_30: -1834984986789918985
+      dial_tick_marks_31: 2436840750279387781
+      dial_tick_marks_32: -5398895324867914799
+      dial_tick_marks_33: -622945607062770460
+      dial_tick_marks_34: -317308536034507853
+      dial_tick_marks_35: -2863917830966904169
+      dial_tick_marks_36: 7157644883299708258
+      dial_tick_marks_37: 6617555934268041591
+      dial_tick_marks_38: -4096967974350208615
+      dial_tick_marks_39: -2611811881262971418
+      dial_tick_marks_4: 6246756659432559205
+      dial_tick_marks_40: -556499650197525300
+      dial_tick_marks_41: 1121429349139026499
+      dial_tick_marks_42: 121910611812200008
+      dial_tick_marks_43: -33589247281663315
+      dial_tick_marks_44: -5966293227439658276
+      dial_tick_marks_45: -6313560947944254041
+      dial_tick_marks_46: -8132430551795478759
+      dial_tick_marks_47: 1933448673342283284
+      dial_tick_marks_48: 4715663933635845939
+      dial_tick_marks_49: 6727532153481215289
+      dial_tick_marks_5: -5645299514633204196
+      dial_tick_marks_50: -2926268299393008992
+      dial_tick_marks_51: 7579648592469247016
+      dial_tick_marks_52: -7129400045945535019
+      dial_tick_marks_53: -2421356769655299887
+      dial_tick_marks_54: -4965939279508973438
+      dial_tick_marks_55: -5694448987473352229
+      dial_tick_marks_56: 2467496092325492086
+      dial_tick_marks_57: 5278287438022790825
+      dial_tick_marks_58: 1061143723115112573
+      dial_tick_marks_59: -2098991254721790523
+      dial_tick_marks_6: 4532926319330135939
+      dial_tick_marks_60: -7761893411003001811
+      dial_tick_marks_61: 2764447527396018403
+      dial_tick_marks_62: 2478140211379457857
+      dial_tick_marks_63: 6877973762726075713
+      dial_tick_marks_64: 2712651972558013023
+      dial_tick_marks_65: 8949848282358445057
+      dial_tick_marks_66: 656903831739540190
+      dial_tick_marks_67: 8759734272306970676
+      dial_tick_marks_68: -7648095584214172808
+      dial_tick_marks_69: 2736035601840502748
+      dial_tick_marks_7: 4718024526528320144
+      dial_tick_marks_70: 7807145831666724768
+      dial_tick_marks_71: -6784532693778246118
+      dial_tick_marks_8: 8952014373747105386
+      dial_tick_marks_9: 8955952706874088268
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
