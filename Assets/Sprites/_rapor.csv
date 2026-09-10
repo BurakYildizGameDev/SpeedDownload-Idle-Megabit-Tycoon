@@ -1,0 +1,83 @@
+﻿kaynak;klasor;dosya;boyut;once_KB;sonra_KB;kodlama;not
+1;Dial;dial_tier0_signal_bg;512x512;5041;34;palet256;
+2;Dial;dial_tier1_phoneline_bg;512x512;5222;38;palet256;
+3;Dial;dial_tier2_dialup_bg;512x512;4735;29;palet256;
+4;Dial;dial_tier3_isdn_bg;512x512;4696;25;palet256;
+5;Dial;dial_tier4_adsl_bg;512x512;5976;42;palet256;
+6;Dial;dial_tier5_vdsl_bg;512x512;5269;36;palet256;
+7;Dial;dial_tier6_fiber_bg;512x512;5107;36;palet256;
+8;Dial;dial_tier7_quantum_bg;512x512;4732;38;palet256;
+9;Dial;dial_tier8_datacenter_bg;512x512;4900;36;palet256;
+11;Dial;dial_redline_overlay;512x512;4989;7;palet256;kirpma yok (kadranla hizali kalsin)
+12;Dial;dial_tick_marks;512x512;4744;15;palet256;kirpma yok (kadranla hizali kalsin)
+13;FX;fx_overheat_smoke;512x512;5708;15;palet256;
+14;FX;fx_overheat_flash;512x512;5325;17;palet256;
+15;FX;fx_turbo_flame;512x512;5473;30;palet256;
+16;FX;fx_click_ripple;512x512;5665;14;palet256;
+17;FX;fx_coin_burst;512x512;6072;20;palet256;
+18;FX;fx_confetti;512x512;5954;27;palet256;
+19;FX;fx_critical_burst;512x512;5520;15;palet256;
+21;FileIcons;icon_file_docx;512x512;5398;10;palet256;
+22;FileIcons;icon_file_jpeg;512x512;4603;7;palet256;
+24;FileIcons;icon_file_mp3;512x512;5000;11;palet256;
+25;FileIcons;icon_file_wav;512x512;5022;7;palet256;
+26;FileIcons;icon_file_mp4;512x512;4759;10;palet256;
+28;FileIcons;icon_file_exe;512x512;4199;7;palet256;
+29;FileIcons;icon_file_mkv;512x512;4174;6;palet256;
+30;FileIcons;icon_file_targz;512x512;5977;22;palet256;
+32;FileIcons;icon_file_mega_procedural;512x512;5377;11;palet256;
+33;UpgradeIcons;icon_conn_phoneline;512x512;5254;7;palet256;
+34;UpgradeIcons;icon_conn_dialup;512x512;5183;4;palet256;
+35;UpgradeIcons;icon_conn_isdn;512x512;4949;6;palet256;
+36;UpgradeIcons;icon_conn_adsl;512x512;5192;5;palet256;
+37;UpgradeIcons;icon_conn_vdsl;512x512;5339;12;palet256;
+38;UpgradeIcons;icon_conn_fullfiber;512x512;5347;26;palet256;
+39;UpgradeIcons;icon_conn_quantum;512x512;5869;31;palet256;
+40;UpgradeIcons;icon_conn_datacenter;512x512;5670;5;palet256;
+42;UpgradeIcons;icon_upgrade_fan;512x512;4953;24;palet256;
+43;UpgradeIcons;icon_upgrade_dns;512x512;5012;27;palet256;
+44;UpgradeIcons;icon_upgrade_downloadmanager;512x512;5494;10;palet256;
+45;UpgradeIcons;icon_upgrade_premiumserver;512x512;5262;11;palet256;
+46;UI;ui_icon_balance;512x512;5425;23;palet256;
+47;UI;ui_icon_speed;512x512;5386;10;palet256;
+49;UI;ui_tab_infrastructure;512x512;5503;13;palet256;
+50;UI;ui_tab_hardware;512x512;4791;20;palet256;
+51;UI;ui_tab_software;512x512;4786;9;palet256;
+52;UI;ui_tab_prestige;512x512;4945;20;palet256;
+53;UI;ui_button_normal;512x237;4598;12;palet256;
+55;UI;ui_button_pressed;512x237;4563;6;palet256;
+56;UI;ui_button_disabled;512x237;4613;5;palet256;
+57;UI;ui_panel_bg;512x308;4182;3;palet256;
+58;UI;ui_progressbar_fill;512x128;5271;5;palet256;
+59;UI;ui_icon_settings;512x512;5040;15;palet256;
+60;UI;ui_icon_sound_on;512x512;5030;17;palet256;
+61;UI;ui_icon_sound_off;512x512;4790;13;palet256;
+63;UI;ui_icon_reward_ad;512x512;5125;5;palet256;
+64;UI;ui_icon_lock;512x512;5963;28;palet256;
+65;Events;event_neighbor_wifi_icon;512x512;5333;17;palet256;
+66;Events;event_password_lock_icon;512x512;6062;23;palet256;
+67;Events;event_quota_icon;512x512;5413;12;palet256;
+69;Events;event_happyhour_banner;512x115;5022;8;palet256;
+70;Backgrounds;bg_tier0_signal_room;1024x576;6041;132;palet256;2752x1536 -> 16:9 merkez kirpim
+72;Backgrounds;bg_tier1_2_retro_room;1024x576;6018;120;palet256;2752x1536 -> 16:9 merkez kirpim
+73;Backgrounds;bg_tier6_hightech_room;1024x576;6088;122;palet256;2752x1536 -> 16:9 merkez kirpim
+74;Backgrounds;bg_tier8_server_room;1024x576;8217;211;palet256;2752x1536 -> 16:9 merkez kirpim
+75;Backgrounds;bg_tier9_abstract_space;1024x576;6166;145;palet256;2752x1536 -> 16:9 merkez kirpim
+77;Backgrounds;bg_loading;1024x576;5443;43;palet256;2816x1536 -> 16:9 merkez kirpim
+78;Branding;logo_main;512x512;5209;16;palet256;
+79;Branding;logo_icon_appstore;1024x1024;3742;78;palet256;
+80;Mascot;mascot_idle;512x512;4706;17;palet256;
+81;Mascot;mascot_happy;512x512;3942;25;palet256;
+82;Mascot;mascot_overheated;512x512;4360;20;palet256;
+Yeniler;Dial;dial_needle;512x86;3899;3;palet256;kaynak: duz
+Yeniler;FileIcons;icon_file_txt;512x512;3627;9;palet256;kaynak: duz
+Yeniler;FileIcons;icon_file_png;512x512;3748;8;palet256;kaynak: duz
+Yeniler;FileIcons;icon_file_iso;512x512;4944;8;palet256;kaynak: dama
+Yeniler;FileIcons;icon_file_dat_pb;512x512;4485;20;palet256;kaynak: dama
+Yeniler;UpgradeIcons;icon_upgrade_hammer;512x512;5201;20;palet256;kaynak: dama
+Yeniler;UI;ui_icon_fiberkredisi;512x512;4449;29;palet256;kaynak: dama
+Yeniler;UI;ui_icon_close;512x512;612;11;palet256;kaynak: duz
+Yeniler;UI;ui_progressbar_frame;512x167;1820;5;palet256;kaynak: duz
+Yeniler;Backgrounds;bg_tier4_modern_room;1024x576;1670;139;palet256;kaynak: opak
+Yeniler;Backgrounds;bg_tier7_quantum_lab;1024x576;2342;238;palet256;kaynak: opak
+Yeniler;Backgrounds;bg_mainmenu;1024x576;1352;104;palet256;kaynak: opak
