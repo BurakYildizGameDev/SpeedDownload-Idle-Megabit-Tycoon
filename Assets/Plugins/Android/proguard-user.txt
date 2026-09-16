@@ -1,0 +1,9 @@
+# --- Google Mobile Ads (GMA Unity plugin 11.3.0) ---
+# googlemobileads-unity.aar icinde hem legacy (com.google.android.gms.ads)
+# hem de Next Gen (com.google.android.libraries.ads.mobile.sdk) wrapper siniflari var.
+# Bu projede legacy SDK kullaniliyor (play-services-ads:25.4.0), dolayisiyla
+# com.google.unity.ads.nextgen.* siniflarinin refere ettigi Next Gen SDK
+# classpath'te yok. AAR'in consumer proguard kurali bu siniflari keep ettigi icin
+# R8 "Missing classes detected" hatasi veriyor.
+# Bu siniflar legacy modda hicbir zaman cagrilmadigi icin uyarilari susturmak guvenli.
+-dontwarn com.google.android.libraries.ads.mobile.sdk.**
