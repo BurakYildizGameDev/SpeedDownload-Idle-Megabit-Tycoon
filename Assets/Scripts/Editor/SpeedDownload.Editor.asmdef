@@ -1,0 +1,21 @@
+{
+    "name": "SpeedDownload.Editor",
+    "rootNamespace": "SpeedDownload.EditorTools",
+    "references": [
+        "SpeedDownload.Runtime",
+        "Unity.TextMeshPro",
+        "Unity.InputSystem",
+        "UnityEngine.UI"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
