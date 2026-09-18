@@ -1,0 +1,65 @@
+<!--
+  IL2CPP kod budama (managed stripping) korumasi.
+
+  NEDEN GEREKLI
+  =============
+  Android derlemesi IL2CPP + "High" stripping kullaniyor. Bu seviyede linker,
+  koddan STATIK olarak referans verilmeyen her tipi siliyor. Yansima (reflection)
+  ile ADIYLA cozulen tipler statik referans sayilmadigi icin budaniyor.
+
+  .NET kripto altyapisinin fabrika metotlari tam olarak boyle calisir:
+      Aes.Create()                   -> "AesCryptoServiceProvider"
+      RandomNumberGenerator.Create() -> "RNGCryptoServiceProvider"
+      HMAC.Create("HMACSHA256")      -> "HMACSHA256"
+
+  Sonuc: editorde (budama yok) her sey calisir, APK'da ilk kayit denemesi
+  patlar. Bu hatayi editorde yakalamak IMKANSIZ — yalnizca cihazda, oyuncunun
+  kaybolan ilerlemesi olarak ortaya cikar.
+
+  IKI KATMANLI KORUMA
+  ===================
+  1. SaveCrypto hicbir fabrika metodu kullanmiyor; somut tiplere dogrudan
+     referans veriyor (AesManaged, RNGCryptoServiceProvider, HMACSHA256).
+     Asil koruma bu.
+  2. Bu dosya ikinci emniyet kemeri: ileride biri farkinda olmadan
+     Aes.Create() gibi bir cagri eklerse yine de calissin.
+
+  GameBootstrapper acilista SaveCrypto.SelfTest() calistiriyor; ikisi de
+  basarisiz olursa sorun sessiz kalmiyor, gunluge yaziliyor.
+-->
+<linker>
+  <assembly fullname="mscorlib">
+    <type fullname="System.Security.Cryptography.AesManaged" preserve="all" />
+    <type fullname="System.Security.Cryptography.AesCryptoServiceProvider" preserve="all" />
+    <type fullname="System.Security.Cryptography.RijndaelManaged" preserve="all" />
+    <type fullname="System.Security.Cryptography.RNGCryptoServiceProvider" preserve="all" />
+    <type fullname="System.Security.Cryptography.RandomNumberGenerator" preserve="all" />
+    <type fullname="System.Security.Cryptography.HMACSHA256" preserve="all" />
+    <type fullname="System.Security.Cryptography.SHA256Managed" preserve="all" />
+    <type fullname="System.Security.Cryptography.Rfc2898DeriveBytes" preserve="all" />
+    <type fullname="System.Security.Cryptography.CryptoConfig" preserve="all" />
+  </assembly>
+
+  <assembly fullname="System.Core" ignoreIfMissing="1">
+    <namespace fullname="System.Security.Cryptography" preserve="all" />
+  </assembly>
+
+  <assembly fullname="System.Security.Cryptography.Algorithms" ignoreIfMissing="1">
+    <namespace fullname="System.Security.Cryptography" preserve="all" />
+  </assembly>
+
+  <!--
+    Oyunun kendi calisma zamani derlemesi.
+
+    SaveData JsonUtility ile serilesiyor; JsonUtility alanlara yansima ile
+    eriştiği icin budanan bir alan sessizce VARSAYILAN degerle yuklenir —
+    yani kayit "bozuk degil ama eksik" gelir ki teshis edilmesi en zor durum.
+  -->
+  <assembly fullname="SpeedDownload.Runtime">
+    <type fullname="SpeedDownload.Core.SaveData" preserve="all" />
+    <type fullname="SpeedDownload.Core.SaveData/UpgradeEntry" preserve="all" />
+    <type fullname="SpeedDownload.Core.SaveData/SlotEntry" preserve="all" />
+    <type fullname="SpeedDownload.Core.SaveData/StatEntry" preserve="all" />
+    <type fullname="SpeedDownload.Core.SaveCrypto" preserve="all" />
+  </assembly>
+</linker>
