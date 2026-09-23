@@ -72,11 +72,18 @@ The project includes an automated test harness designed for continuous verificat
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/speeddownload-megabit-tycoon.git
+   git clone https://github.com/BurakYildizGameDev/SpeedDownload-Idle-Megabit-Tycoon.git
    ```
 2. Open the project in **Unity 6 (6000.5.0f1)** or newer.
-3. Open `Assets/Scenes/MainScene.unity` and press **Play**.
+3. Open `Assets/Scenes/Game.unity` and press **Play**.
 4. To run tests: Open `Window > General > Test Runner` or execute `UnitTests.RunAllUnitTests()` from the custom editor menu.
+
+### Building for WebGL
+- In the editor: **Tools > SpeedDownload > 6. Build WebGL (itch.io + GitHub Pages)**.
+- Output: `Builds/WebGL/` (for GitHub Pages) and `Builds/MegabitTycoon-WebGL.zip` (upload to itch.io as an HTML game, viewport 540×960).
+- The build uses Gzip with decompression fallback, so it runs on hosts that don't set `Content-Encoding` headers.
+- Test locally over HTTP (opening `index.html` via `file://` does not work), e.g. `python -m http.server` inside `Builds/WebGL`.
+- On WebGL the AdMob SDK is disabled; rewarded placements use the built-in in-game panel instead.
 
 ---
 
