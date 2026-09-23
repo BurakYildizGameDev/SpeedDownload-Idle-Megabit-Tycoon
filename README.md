@@ -5,6 +5,7 @@
 [![Tests](https://img.shields.io/badge/Unit%20Tests-31%2F31%20Passed-brightgreen.svg)]()
 [![Soak Stress Test](https://img.shields.io/badge/Soak%20Test-3600%20Frames%20Pass-brightgreen.svg)]()
 [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20WebGL-green.svg)]()
+[![Play in Browser](https://img.shields.io/badge/Play-in%20Browser-181717?logo=github)](https://burakyildizgamedev.github.io/SpeedDownload-Idle-Megabit-Tycoon/)
 [![itch.io](https://img.shields.io/badge/Play%20on-itch.io-FA5C5C?logo=itchdotio&logoColor=white)](https://itch.io)
 
 > **SpeedDownload: Idle Megabit Tycoon** is a retro-modern 2D idle/clicker simulation game where players upgrade from vintage dial-up speeds (`bps`) to hyper-scale fiber networks (`Tbps` and beyond). 
