@@ -560,7 +560,41 @@ namespace SpeedDownload.Core
             RegisterPrestige();
             RegisterAds();
             RegisterAdPlacements();
+#if UNITY_WEBGL && !UNITY_EDITOR
+            RegisterWebBonusOverrides();
+#endif
         }
+
+#if UNITY_WEBGL && !UNITY_EDITOR
+        /// <summary>
+        /// Tarayicida gercek reklam yok (AdMob devre disi); sahte panel "AD"
+        /// dediginde oyuncu reklam bekleyip hicbir sey gormuyor. Ayni akis
+        /// burada bekleme karsiligi bir BONUS olarak adlandiriliyor.
+        /// </summary>
+        void RegisterWebBonusOverrides()
+        {
+            Add("ad_caption",
+                "BONUS  ·  wait until the end for your reward",
+                "BONUS  ·  ödül için sonuna kadar bekle",
+                "BONUS  ·  bis zum Ende warten für die Belohnung",
+                "BONUS  ·  espera hasta el final para tu recompensa",
+                "БОНУС  ·  дождись конца ради награды");
+
+            Add("ad_skip_hint",
+                "BONUS  ·  close now and you forfeit the reward",
+                "BONUS  ·  şimdi kapatırsan ödülü kaybedersin",
+                "BONUS  ·  jetzt schließen heißt keine Belohnung",
+                "BONUS  ·  si cierras ahora pierdes la recompensa",
+                "БОНУС  ·  закроешь сейчас — потеряешь награду");
+
+            Add("offline_double",
+                "BONUS  ·  2x",
+                "BONUS  ·  2x",
+                "BONUS  ·  2x",
+                "BONUS  ·  2x",
+                "БОНУС  ·  2x");
+        }
+#endif
 
         void RegisterOffline()
         {
