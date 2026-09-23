@@ -56,7 +56,12 @@ namespace SpeedDownload.Core
         // ==================================================================
         // IAdService Arayuzu
         // ==================================================================
+#if UNITY_WEBGL && !UNITY_EDITOR
+        // Tarayicida Google Mobile Ads SDK yok: sahte panel (StubAdService) kazansin.
+        public int Priority => -1;
+#else
         public int Priority => 100;
+#endif
 
         public static string Diagnostics { get; private set; } = "Baslatilmadi";
 
@@ -142,6 +147,10 @@ namespace SpeedDownload.Core
 
         void Start()
         {
+#if UNITY_WEBGL && !UNITY_EDITOR
+            Diagnostics = "WebGL: AdMob devre disi";
+            return;
+#endif
             Diagnostics = "AdMob SDK baslatiliyor...";
             MobileAds.Initialize(status =>
             {
