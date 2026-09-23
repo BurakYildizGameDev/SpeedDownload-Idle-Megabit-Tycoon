@@ -1,5 +1,6 @@
 # SpeedDownload: Idle Megabit Tycoon
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Unity 6](https://img.shields.io/badge/Unity-6000.5.0f1-black.svg?style=flat&logo=unity)](https://unity.com/)
 [![Render Pipeline](https://img.shields.io/badge/Render%20Pipeline-URP%202D-blue.svg)](https://unity.com/srp/Universal-Render-Pipeline)
 [![Tests](https://img.shields.io/badge/Unit%20Tests-31%2F31%20Passed-brightgreen.svg)]()
@@ -90,4 +91,4 @@ The project includes an automated test harness designed for continuous verificat
 ## 📄 License & Credits
 - **Developed by:** Burak
 - **AI Copilot & Prompt Design:** Google Gemini
-- **License:** MIT License (or open source of your choice)
+- **License:** [MIT](LICENSE)
