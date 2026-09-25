@@ -56,3 +56,7 @@ sysinfo.txt
 Thumbs.db
 ehthumbs.db
 desktop.ini
+
+# Internal notes / planning docs (kept local only)
+/Docs/
+/16082026.md
